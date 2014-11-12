@@ -1,0 +1,5 @@
+<resources>
+    <bitmaps>
+        <bitmap id="background" filename="images/round.png" />
+    </bitmaps>
+</resources>
